@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Mahmoud Muammar]
 
 ### 🚀 Machine learing Engineer
 I love solving complex problems, building scalable web applications, and diving into data science and simulation modeling. 
