@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Mahmoud Muammar]
+# I'm Mahmoud Muammar
 
 ### 🚀 Machine learing Engineer
 I love solving complex problems, building scalable web applications, and diving into data science and simulation modeling. 
@@ -8,7 +8,7 @@ I love solving complex problems, building scalable web applications, and diving 
 ### 🧰 Tech Stack & Tools
 
 *   **Languages:** Python, SQL
-*   **Data & Simulation:** KNIME (Data Workflows & Analytics), AnyLogic (Simulation Modeling)
+*   **Data & Simulation:** MatLab
 *   **Tools & Platforms:** Git, Visual Studio, VS Code
 
 ---
@@ -26,7 +26,7 @@ I love solving complex problems, building scalable web applications, and diving 
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Connect with Me TypeShit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-muammar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/dodo434)
