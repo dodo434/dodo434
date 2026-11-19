@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./portrait.jpeg" alt="Mahmoud Muammar portrait" width="560" />
+<img src="./portrait.gif" alt="Animated portrait" width="560" />
 
 </div>
 
